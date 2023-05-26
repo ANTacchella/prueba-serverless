@@ -3,7 +3,7 @@
   "Values": {
     "AzureWebJobsStorage": "",
     "FUNCTIONS_WORKER_RUNTIME": "node",
-    "CONNECTION_STRING": "AccountEndpoint=https://tailwind-traders-14463.documents.azure.com:443/;AccountKey=09yxLeGD9dBg1Buc4iStqRCLhN3si0EPv41gUJT7jaFuSIoLuB3VFUcIyfY2cBAhwsAdZ3mwvyZWACDbYetQmw==;"
+    "CONNECTION_STRING": "mongodb://prueba-serverless-server:uPAy3SRPKhZ0zNeBQfV9FrUnY0rLygCEpxiiMX29XnvQypX67MpVjt7WgNGNgfkRxpVbgNa4sRu9ACDbfqOh1g==@prueba-serverless-server.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@prueba-serverless-server@"
   },
   "Host": {
     "CORS": "*"
