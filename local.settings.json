@@ -3,7 +3,7 @@
   "Values": {
     "AzureWebJobsStorage": "",
     "FUNCTIONS_WORKER_RUNTIME": "node",
-    "CONNECTION_STRING": "mongodb://prueba-azure-functions:id7trnnt9UNW5f4H9bF3f3o8ERMrL4t1rgb2rbF2KlASs0mIJqnbFH8BldMMu25ivD5Zwp7iGUKdACDbpveMKA==@prueba-azure-functions.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@prueba-azure-functions@"
+    "CONNECTION_STRING": "AccountEndpoint=https://prueba-azure-functions.documents.azure.com:443/;AccountKey=DN0s9qOHMh2tWxFsWmwMSPqdOk4kYyRetKbJgImKG3zFPrg6IkjDBU0GcC0vBEb09ATmEOoA8oDtACDbgKSnCw==;"
   },
   "Host": {
     "CORS": "*"
